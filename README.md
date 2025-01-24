@@ -20,6 +20,11 @@ Iniciar script.
 python main.py
 ````
 
+## Imagenes
+
+![gif_ipscope](https://github.com/user-attachments/assets/4cd40a95-b4d4-4703-928f-52883d93720a)
+
+
 ## 🌐 Contacto 🌐
 [![discord](https://img.shields.io/badge/Discord-euronymou5-a?style=plastic&logo=discord&logoColor=white&labelColor=black&color=7289DA)](https://discord.com/users/452720652500205579)
 
